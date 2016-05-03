@@ -241,5 +241,8 @@
          correctly use them when installed on your device.  Otherwise, keep this disabled
          so that applications can still use their own mechanisms. -->
     <bool name="config_enableAutoPowerModes">true</bool>
+    
+       <!-- Dont remove For Fixing AutoRotate -->
+    <bool name="config_useSystemClockforRotationSensor">true </bool>
 
 </resources>
