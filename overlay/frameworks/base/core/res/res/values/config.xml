@@ -243,6 +243,6 @@
     <bool name="config_enableAutoPowerModes">true</bool>
     
        <!-- Dont remove For Fixing AutoRotate -->
-    <bool name="config_useSystemClockforRotationSensor">true </bool>
+    <bool name="config_useSystemClockforRotationSensor">true</bool>
 
 </resources>
